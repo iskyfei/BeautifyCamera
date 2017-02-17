@@ -6,7 +6,7 @@
 ![](https://github.com/iskyfei/Raw/blob/master/bfCamera/bfCamera1.jpg)  <br> 
 ### 拍照后裁剪
 ![](https://github.com/iskyfei/Raw/blob/master/bfCamera/bfCamera2.jpg)  <br> 
-![](https://github.com/iskyfei/Raw/blob/master/bfCamera/bfCamera3.jpg)<br> 
+
 
 ## 参考并借用代码的库 
 [![TOCropViewController]](https://github.com/TimOliver/TOCropViewController) <br> 
